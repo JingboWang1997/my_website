@@ -6,12 +6,7 @@ class About extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      // var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
-      var street = this.props.data.address.street;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
@@ -38,7 +33,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} target="_blank" className="button"><i className="fa fa-download"></i>Resume/CV</a>
+                     <a href={resumeDownload} target="_blank" rel="noopener noreferrer" className="button"><i className="fa fa-download"></i>Resume/CV</a>
                   </p>
                </div>
             </div>
