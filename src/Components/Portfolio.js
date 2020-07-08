@@ -1,5 +1,15 @@
 import React, { Component } from 'react';
 
+/**
+ * 1. cirkles
+ * 2. algorithm studio
+ * 3. voice calorie
+ * 4. snapnfly
+ * 5. minesweeper
+ * 6. foodPrepIt
+ * 7. humor analysis
+ * 8. open-telemetry
+ */
 class Portfolio extends Component {
   render() {
 
