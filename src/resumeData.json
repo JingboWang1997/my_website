@@ -39,7 +39,7 @@
         "school":"Carnegie Mellon University",
         "degree":"Master of Science in Machine Learning",
         "graduated":"December 2021",
-        "description":"One of 30 students admitted globally for 2020 Fall"
+        "description":"GPA: 4.09 | AI-Education Research with Professor Tom Mitchell | One of 30 students admitted globally for 2020 Fall"
       },
       {
         "school":"Georgia Institute of Technology",
@@ -52,8 +52,14 @@
       {
         "company":"Google LLC",
         "title":"Software Engineering Intern",
+        "years":"May 2021 - August 2021",
+        "description": "Cloud Smart Ops | Anomaly Detection"
+      },
+      {
+        "company":"Google LLC",
+        "title":"Software Engineering Intern",
         "years":"May 2020 - August 2020",
-        "description": "Cloud Monitoring | Project OpenTelemetry"
+        "description": "Cloud Core Observability | OpenTelemetry"
       },
       {
         "company":"The Goldman Sachs Group, Inc.",
